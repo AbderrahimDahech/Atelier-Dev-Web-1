@@ -1,1 +1,1 @@
-"Ce module permet de d‚couvrir les outils de d‚veloppement web.Il pr‚sente l'utilisation de VS Code, Git et GitHub.L'objectif est d'apprendre … g‚rer et partager un projet web."
+"Ce module permet de decouvrir les outils de developpement web.Il presente l'utilisation de VS Code, Git et GitHub.L'objectif est d'apprendre Ã  gerer et partager un projet web."
